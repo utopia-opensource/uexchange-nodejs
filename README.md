@@ -1,3 +1,7 @@
+
+
+![logo](logo.png)
+
 The lib itself consists of two parts — `core.js` where's located API reference and core helpers; and `<platform-name>.js` where is located platform-depended code.
 Usage:
 1. Copy `core.js` and `node.js` to your project.
